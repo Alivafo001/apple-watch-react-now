@@ -100,7 +100,7 @@ body{
     justify-content: space-between;
 }
 .hero__info{
-    max-width: 450px;
+    max-width: 500px;
     padding-top: 85px;
 }
 .hero__info__title{
